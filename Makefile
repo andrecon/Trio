@@ -1,2 +1,2 @@
 all:
-	g++ -Wfatal-errors main.cpp
+	g++ -std=c++11 -o out main.cpp
